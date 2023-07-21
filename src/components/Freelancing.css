@@ -1,0 +1,41 @@
+.lefthead{
+  position: absolute;
+  width: 508px;
+  height: 250px;
+  left: 300px;
+  top: 116px;
+  font-family: 'Abril Fatface', cursive;
+  font-weight: 400;
+  font-size: 60.85px;
+  line-height: 74px;
+  
+  color: #0e0d0d;
+  }
+  .footer{
+    width:350px;
+    height:180px;
+    background-color: #ca7a7a;
+    font-family: 'Montserrat';
+    font-style: normal;
+  }
+  .container{
+    font-family: 'Montserrat';
+    font-style: normal;
+    color: #ffffff;
+    font-size:1.125rem;
+    text-align: center;
+    padding: 6px;
+  }
+  @media (max-width:1024px)
+  {
+    .lefthead{
+        position: absolute;
+        top:8rem;
+        font-size: 2rem;
+        text-align:center;
+   
+      }
+      .container{
+        margin-top:10rem;
+      }
+  }

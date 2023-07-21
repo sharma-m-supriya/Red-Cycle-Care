@@ -1,0 +1,23 @@
+.card{
+    width:350px;
+    height:400px;
+   background-color: #ca7a7a;
+   align-items: center;
+   margin-top:3rem;
+  padding-top: 15px;
+}
+.card img{
+  width:200px;
+  height:200px;
+}
+.footer{
+  width:350px;
+  height:180px;
+  background-color: #424142;
+  color:white;
+  font-family: 'Montserrat';
+  font-weight: normal;
+  font-size:1.3rem;
+  text-align: center;
+  padding-top: 18px;
+}

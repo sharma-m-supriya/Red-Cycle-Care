@@ -1,0 +1,75 @@
+  body{
+    overflow: hidden;
+  }
+  .Auth-form-container {
+    background-color: #ffc9c9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .Auth-form {
+    width:30rem;
+    box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+    background-color: #f79c9c;
+  }
+  
+  .Auth-form-content {
+    padding-left: 12%;
+    padding-right: 12%;
+  }
+  
+  .Auth-form-title {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 36px;
+    color: rgb(3, 3, 3);
+    font-weight: 560;
+    font-family: 'Abril Fatface', cursive;
+  }
+  
+  label {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(13, 12, 12);
+  }
+
+  .login-button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .google-login{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 16px;
+  }
+
+  .vector1{
+    position: relative;
+ right:0;
+ bottom:0;
+  }
+  .vector2{
+    position: relative;
+    right:0;
+    bottom:0;
+  }
+
+  @media(max-width:1024px)
+  {
+    .Auth-form {
+      width:23rem;
+      box-shadow: rgba(254, 254, 254, 0.16) 1px 1px 10px;
+      padding-top: 30px;
+      padding-bottom: 20px;
+      border-radius: 8px;
+      background-color: #750505;
+    }
+  }
