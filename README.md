@@ -1,7 +1,6 @@
-Menstrual Insights
 Welcome to Menstrual Insights, a comprehensive website dedicated to providing information and support related to menstruation. Our goal is to educate and guide women through all aspects of menstruation, offering valuable insights and the ability to connect with experts.
 
-Features
+Features >>
 Educational Content: Learn everything about menstruation, including the menstrual cycle, common symptoms, health tips, and more.
 Expert Connections: Connect with healthcare professionals and experts to get personalized advice and support.
 Community Support: Engage with a community of women sharing similar experiences, offering support and encouragement.
